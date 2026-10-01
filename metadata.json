@@ -1,0 +1,6 @@
+{
+  "name": "Schulte Table",
+  "description": "Clean, minimal Schulte table speed reading and concentration training tool with customizable grid sizes (3x3 to 7x7) and best time tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
